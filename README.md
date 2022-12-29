@@ -3,16 +3,16 @@
 
 # Spark com Min.io
 
-Projeto básico de Engenharia de dados com Spark e Data lake Min.io
+Projeto de Engenharia de dados com Spark e Data lake Min.io
 
 <p align="center"><img src="./DIO.png" width="500"></p>
 
-## Projeto básico de Engenharia de dados
+## Projeto de Engenharia de dados
 
 
-__*Foi Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__
+__*Foi Criando um Data Lake como objetivo ser o repositório de dados*__
 
-O desafio consistia em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento deveira efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparecia no mesmo.
+O projeto consistia em efetuar o upload dos dados para a zona de pouso realizar limpeza de preprocessamento dos dados, utilizar o spark para limpar e formatar os dados deixando -oos no formato mais apropriado para aplicação de análises. Realizar agregações nos dados e transportar para a zona de serviços, para serem explorados pelos cientistas e analista de dados.
 
 ---
 
@@ -24,7 +24,7 @@ O desafio consistia em efetuar um processamento de dados utilizando o produto Da
   <li>Bancket(processamento_ - Como zona de processamento ou processing zone(dados pre-processados)</li>
   <li>Bancket(servico) - Como zona de serviços ou cureted zone(Dados limpos prontos para análises)</li>  
 </ul> 
-2. Foi realizado o uploade dos arquivos de dados na zona de pouso(ingestao), extraídos do kaggle
+2. Foi realizado o upload dos arquivos de dados na zona de pouso(ingestao), extraídos do kaggle
 <ul>
   <li>T201605PDPI+BNFT.csv</li>
   <li>T201606PDPI+BNFT.csv</li>
