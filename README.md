@@ -5,7 +5,7 @@
 
 Projeto de Engenharia de dados com Spark e Data lake Min.io
 
-<p align="center"><img src="./minio.jpg" width="500"></p>
+<p align="center"><img src="./architecture.svg" width="500"></p>
 
 ## Projeto de Engenharia de dados
 
