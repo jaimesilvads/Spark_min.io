@@ -39,10 +39,10 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
   <li>T201612PDPI+BNFT.csv</li>   
 </ul> 
  
-3. Foram realizadas a limpeza, pre-processamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo. O resultado(df-formatado.parquet) desse processo foi gravado na nona de processamento.    
-    
+3. Foram realizadas a limpeza, pre-processamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo. O resultado(df-formatado.parquet) desse processo foi gravado na nona de processamento.      
 
-4. Foi realiada a leitura dos dado em formato parquet e aplicada a agregação dos dados e disonibilização(df-Dados-Agregados.parquet) na zone de serviços no fromato parquet para futuras análises por parte dos cientistas e nalista de dados. 
+4. Foi realiada a leitura dos dado em formato parquet e criada a view Dados_Sql para permitir exploração dos dados via SQL.
+5. Foi aplicada a agregação dos dados da view Dados_Sql e disonibilização na zone de serviços no fromato parquet(df-Dados-Agregados.parquet) para futuras análises por parte dos cientistas e nalista de dados. 
 
 5. Foi utiizado o notebook abaixo para realiza o processamento dos dados.
 <https://github.com/jaimesilvads/Spark_min.io/blob/main/SparckComMin_Io.ipynb>.
