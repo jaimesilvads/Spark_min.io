@@ -3,14 +3,12 @@
 
 ## Spark com Min.io
 
-##Projeto de Engenharia de dados com Spark e Data lake Min.io
+## Projeto de Engenharia de dados com Spark e Data lake Min.io
 
 <p align="center"><img src="./architecture.svg" width="500"></p>
 
-## Projeto de Engenharia de dados
 
-
-__*Foi Criando um Data Lake como objetivo ser o repositório de dados*__
+__*Foi Criando um Data Lake como objetivo ser o repositório de dados.*__
 
 O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar limpeza e preprocessamento dos dados, utilizar o spark para limpar e formatar os dados deixando-os no formato mais apropriado para aplicação de análises. Realizar agregações nos dados e transportar para a zona de serviços, para serem explorados pelos cientistas e analista de dados.
 
