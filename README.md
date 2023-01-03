@@ -39,7 +39,7 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
   <li>T201612PDPI+BNFT.csv</li>   
 </ul> 
  
-3. Foram realizadas a limpeza, pre-processamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo. O resultado desse processo foi gravado na nona de processamento.    
+3. Foram realizadas a limpeza, pre-processamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo. O resultado(df-formatado.parquet) desse processo foi gravado na nona de processamento.    
     
 
 4. Foi realiada a leitura dos dado em formato parquet e aplicada a agregação dos dados e disonibilização na zone de serviços para futuras análises por parte dos cientistas e nalista de dados.
