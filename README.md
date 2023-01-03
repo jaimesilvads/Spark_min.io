@@ -25,6 +25,7 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
   <li>Bancket(servico) - Como zona de serviços ou cureted zone(Dados limpos prontos para análises)</li>  
 </ul> 
 2. Foi realizado o upload dos arquivos de dados na zona de pouso(ingestao), extraídos do kaggle
+
 <ul>
   <li>T201601PDPI+BNFT.csv</li>
   <li>T201602PDPI+BNFT.csv</li>
@@ -41,5 +42,9 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
 </ul> 
 3. Foi utilizado o script spark para realizar a limpeza, preprocessamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo.
 
-
 4. Foi realiza a agregação dos dados e disonibilização na zone de serviços para futuras análises por parte dos cientistas e nalista de dados.
+
+5. Foi utiizado o notebook para realiza o processamento dos dados.
+<https://github.com/jaimesilvads/Spark_min.io/blob/main/SparckComMin_Io.ipynb>.
+
+
