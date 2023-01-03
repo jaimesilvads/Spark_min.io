@@ -40,7 +40,7 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
   <li>T201611PDPI+BNFT.csv</li>
   <li>T201612PDPI+BNFT.csv</li>   
 </ul> 
-  3. Foi utilizado o script spark para realizar a limpeza, preprocessamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo.
+    3. Foi utilizado o script spark para realizar a limpeza, preprocessamento e conversão para o formato parquet, visando melhorar a performance nas proximas etapas do processo.
 
 4. Foi realiza a agregação dos dados e disonibilização na zone de serviços para futuras análises por parte dos cientistas e nalista de dados.
 
