@@ -19,8 +19,8 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
 1. Foi Criado um datalake  utilizando o Min.io intalado localmente com estruta abaixo
 <ul>
   <li>Bancket(ingestao) - Como zona de pouso ou landing zone(dados em formato bruto)</li>
-  <li>Bancket(processamento - Como zona de processamento ou processing zone(dados pre-processados)</li>
-  <li>Bancket(servico) - Como zona de serviços ou cureted zone(Dados limpos prontos para análises)</li>  
+  <li>Bancket(processamento - Como zona de processamento ou processing zone(dados pre-processados)</li>
+  <li>Bancket(servico) - Como zona de serviços ou cureted zone(Dados limpos prontos para análises)</li>  
 </ul> 
 2. Foi realizado o upload dos arquivos de dados na zona de pouso(ingestao), extraídos do kaggle
 
