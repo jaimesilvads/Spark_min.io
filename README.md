@@ -1,6 +1,7 @@
 ### FRANCISCO JAIME DA SILVA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Resource-PySpark-blue)
+![Badge em Desenvolvimento](https://img.shields.io/badge/Min.io-DataLake-green)
 ![Badge em Desenvolvimento]([https://img.shields.io/badge/Resource-PySpark-blue](https://img.shields.io/badge/PySpark-Spark3.3.1-green))
 
 ## Spark com Min.io
