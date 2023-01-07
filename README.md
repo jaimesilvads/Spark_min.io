@@ -12,8 +12,6 @@
 <p align="center"><img src="./imagens/architecture.svg" width="500"></p>
 
 
-__*Foi Criando um Data Lake como objetivo ser o repositório de dados.*__
-
 O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar limpeza e preprocessamento dos dados, utilizar o spark para limpar e formatar os dados deixando-os no formato mais apropriado para aplicação de análises. Realizar agregações nos dados e transportar para a zona de serviços, para serem explorados pelos cientistas e analista de dados.
 
 ---
