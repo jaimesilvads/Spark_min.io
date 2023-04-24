@@ -47,7 +47,6 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
 5. Foi aplicada a agregação dos dados da view Dados_Sql e disonibilização na zone de serviços no fromato parquet(df-Dados-Agregados.parquet) para futuras análises por parte dos cientistas e nalista de dados. 
 
 5. Foi utiizado o notebook abaixo para realiza o processamento dos dados.
-<https://github.com/jaimesilvads/Spark_min.io/blob/main/SparckComMin_Io.ipynb>.
 <https://github.com/jaimesilvads/Spark_min.io/blob/main/SparckComMio_Io.ipynb>
 
 
