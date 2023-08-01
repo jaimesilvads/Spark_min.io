@@ -18,7 +18,7 @@ O projeto consiste em efetuar o upload dos dados para a zona de pouso realizar l
 
 ### Etapas do Projeto
 
-1. Foi Criado um datalake  utilizando o Min.io intalado localmente com estruta abaixo
+1. Foi Criado um data lake  utilizando o Min.io instalado localmente com estrutura abaixo:
 <ul>
   <li>Bancket(ingestao) - Como zona de pouso ou landing zone(dados em formato bruto)</li>
   <li>Bancket(processamento - Como zona de processamento ou processing zone(dados pre-processados)</li>
